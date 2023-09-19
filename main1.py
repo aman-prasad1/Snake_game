@@ -125,9 +125,9 @@ def mainloop():
 					hiscore = score
 					
 				
-		#	if inc_speed == 1:
-#				speed += 1
-#				inc_speed = 0
+		 #	if inc_speed == 1:
+   #	speed += 1
+   # inc_speed = 0
 				
 			text_screen("Score: " + str(score)+" High score: "+str(hiscore), red, 5, 5)
 				
